@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095735901778",
+    "project_id": "db-recepku",
+    "storage_bucket": "db-recepku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095735901778:android:fc1d8fceadd482d323a98b",
+        "android_client_info": {
+          "package_name": "com.daniel.recepku.recepku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_HjBX_Qh765nawpFb54Ic55M6yHNhftY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
