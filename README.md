@@ -1,6 +1,6 @@
-# recepku
+# MyFoods
 
-Recepku flutter version
+MyFoods flutter version
 
 ## Getting Started
 
